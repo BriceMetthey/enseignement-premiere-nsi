@@ -1,2 +1,2 @@
-# enseignement-NSI
-Programmes de la spécialité numérique et sciences informatiques (NSI)
+# Programmes de la spécialité Numérique et Sciences Informatiques (NSI) en classe de Première
+
