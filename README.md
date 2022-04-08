@@ -1,2 +1,2 @@
-# Programmes de la spécialité Numérique et Sciences Informatiques (NSI) en classe de Première
+# Programmes de la spécialité Numérique et Sciences Informatiques (NSI)
 
